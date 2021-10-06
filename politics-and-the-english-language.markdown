@@ -62,7 +62,7 @@ To begin with, it has nothing to do with archaism, with the salvaging of obsolet
 2. Never use a long word where a short one will do.
 3. If it is possible to cut a word out, always cut it out.
 4. Never use the passive where you can use the active.
-55 Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.
+5. Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.
 6. Break any of these rules sooner than say anything barbarous.
 
 These rules sound elementary, and so they are, but they demand a deep change of attitude in anyone who has grown used to writing in the style now fashionable. One could keep all of them and still write bad English, but one could not write the kind of stuff that I quoted in these five specimens at the beginning of this article.
